@@ -26,5 +26,12 @@
     "image": "img/10000.jpg",
     "extraInfo": "Diez Mil Pesos",
     "price": 10000
+  },
+  {
+    "id": 5,
+    "name": "$20,000",
+    "image": "img/20000.jpg",
+    "extraInfo": "Veinte Mil Pesos",
+    "price": 20000
   }
 ]
