@@ -1,28 +1,28 @@
 [
   {
     "id": 1,
-    "name": "$1.000",
+    "name": "$1,000",
     "image": "img/1000.jpg",
     "extraInfo": "Mil Pesos",
     "price": 1000
   },
   {
     "id": 2,
-    "name": "$2.000",
+    "name": "$2,000",
     "image": "img/2000.jpg",
     "extraInfo": "Dos Mil Pesos",
     "price": 2000
   },
   {
     "id": 3,
-    "name": "$5.000",
+    "name": "$5,000",
     "image": "img/5000.jpg",
     "extraInfo": "Cinco Mil Pesos",
     "price": 5000
   },
   {
     "id": 4,
-    "name": "$10.000",
+    "name": "$10,000",
     "image": "img/10000.jpg",
     "extraInfo": "Diez Mil Pesos",
     "price": 10000
