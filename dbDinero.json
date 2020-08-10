@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "$1,000",
-    "image": "img/1000.jpg",
+    "image": "public/img/1000.jpg",
     "extraInfo": "Mil Pesos",
     "price": 1000
   },
